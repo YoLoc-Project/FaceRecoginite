@@ -1,0 +1,13 @@
+numpy
+matplotlib
+python-socketio
+opencv-python
+mtcnn
+scikit-learn
+tqdm
+numpy
+keras_facenet
+imutils
+pandas
+tensorflow
+pytest-shutil
